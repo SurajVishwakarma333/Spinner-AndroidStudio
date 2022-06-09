@@ -25,7 +25,7 @@ Syntax :
 
 • Below image of Spinner and Custom Spinner will make it more clear.
 
-
+# example :
 ![Screenshot 2022-06-09 105748](https://user-images.githubusercontent.com/101108540/172771016-e13a7ede-8ee7-4ef2-82a0-c78f525deae5.jpg)
 
 # Project outputs 
