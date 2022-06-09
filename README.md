@@ -1,6 +1,9 @@
 # Spinner
      In Android, Spinner provides a quick way to select one value from a set of values. 
      Android spinners are nothing but the drop down-list.
+     
+![Screenshot 2022-06-09 105346](https://user-images.githubusercontent.com/101108540/172770613-c8ea7495-5883-4299-a3c8-aa434823bae1.jpg)
+     
 
 Syntax :
 
