@@ -1,5 +1,5 @@
 # Spinner
-In Android, Spinner provides a quick way to select one value from a set of values. 
+     In Android, Spinner provides a quick way to select one value from a set of values. 
 Android spinners are nothing but the drop down-list.
 
 Syntax :
