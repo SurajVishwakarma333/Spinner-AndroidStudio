@@ -16,9 +16,13 @@ Syntax :
 # Important Note: 
 
 • Spinner is associated with Adapter view so to fill the data in spinner we need to use one of the Adapter class.        
+
 • To fill the data in a spinner we need to implement an adapter class. A spinner is mainly used to display only text field so we can implement Array Adapter for that.
+
 • We can also use Base Adapter and other custom adapters to display a spinner with more customize list.
+
 • Suppose if we need to display a textview and a imageview in spinner item list then array adapter is not enough for that. Here we have to implement custom adapter in our class. 
+
 • Below image of Spinner and Custom Spinner will make it more clear.
 
 ![WhatsApp Image 2022-04-23 at 4 21 29 PM](https://user-images.githubusercontent.com/101108540/164891551-026e3d5c-c823-4ef7-ad11-ebacbd20471d.jpeg)
